@@ -1,4 +1,4 @@
-# Scanntech
+# Mercado Libre - Prueba Técnica
 
 Solving a challenge for the Data Scientist role
 
