@@ -1,0 +1,17 @@
+name: meli
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - plotly
+  - lightgbm
+  - pip:
+    - jupyterlab
+    - requests
+    - scikit-learn
